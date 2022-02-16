@@ -1,4 +1,4 @@
-[label app.py]
+[label rhhcc-api.py]
 from flask import Flask
 app = Flask(__name__)
 
